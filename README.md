@@ -10,15 +10,15 @@ GamingZone esta dirigido a todo publico dentro del mundo gaming o que quiera inc
 
 # Tipografía Principal
 
-° Rubik
-° Poppins
-° Prompt
+- Rubik
+- Poppins
+- Prompt
 
 # Paleta de colores
 
-° #007780
-° #00D0DF
-° #001E20
+- #007780
+- #00D0DF
+- #001E20
 
 # Logo
 
