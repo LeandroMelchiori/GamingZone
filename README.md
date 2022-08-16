@@ -23,4 +23,4 @@ GamingZone esta dirigido a todo publico dentro del mundo gaming o que quiera inc
 ## Logo
 
 <img src="C:\Users\leand\OneDrive\Cursos\Icaro\Proyecto\Logo.png">
-https://raw.githubusercontent.com/xElDelfin/GamingZone/master/Logo.png
+![ScreenShot](https://raw.githubusercontent.com/xElDelfin/GamingZone/master/Logo.png)
