@@ -9,7 +9,9 @@ Somos GamingZone, una empresa dedicada a la venta de productos gamers
 - Placas de video
 - Monitores
 - Auriculares
-- Mouse
+- Parlantes
+- Microfonos
+- Mouses
 - Mouse Pads
 - Teclados
 - Volantes
