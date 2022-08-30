@@ -39,3 +39,7 @@ GamingZone esta dirigido a todo publico dentro del mundo gaming o que quiera inc
 ## Logo
 
 <img src="https://raw.githubusercontent.com/xElDelfin/GamingZone/master/Logo.png">
+
+## Link Figma
+
+https://www.figma.com/file/gWv3Khp3P9EYZxcSzRjO5K/Gamers-Zone---Leandro-Melchiori?node-id=0%3A1
