@@ -38,7 +38,7 @@ GamingZone esta dirigido a todo publico dentro del mundo gaming o que quiera inc
 
 ## Logo
 
-<img src="https://raw.githubusercontent.com/xElDelfin/GamingZone/master/Logo2.png">
+<img src="https://raw.githubusercontent.com/xElDelfin/GamingZone/master/Logo2.jpg">
 
 ## Link Figma
 
